@@ -1,5 +1,6 @@
 <h1 align="center">Project RE:CORD</h1>
 
 <div align='center'>
-  <img width="200" src="https://github.com/user-attachments/assets/437afb24-d30d-4ca3-89b8-977e87269d73"/>
+  <img width="200" src="https://github.com/user-attachments/assets/f0c0b0c2-770d-408e-b6a2-6acadeba6b62"/>
 </div>
+
